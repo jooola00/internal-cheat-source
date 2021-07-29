@@ -1,0 +1,231 @@
+﻿  Assembling shellcode.asm...
+  dllmain.cpp
+C:\Users\tripl\OneDrive\Desktop\redbou source\utilitys.h(16,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\tripl\OneDrive\Desktop\redbou source\dllmain.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(38,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(56,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(56,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(63,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(63,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(70,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(70,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(71,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(71,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(72,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(72,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(79,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(79,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(79,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(80,144): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(80,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(80,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(81,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(81,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(82,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(82,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(86,130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(86,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(86,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(86,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(86,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(90,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(90,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(90,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(90,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(179,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(179,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(179,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(179,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(179,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(182,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(183,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(185,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(186,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(187,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(188,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(189,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(190,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(191,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(192,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(195,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(196,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(198,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(199,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(200,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(201,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(202,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(203,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(204,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\settings.h(205,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\sdk.h(280,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\sdk.h(711,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\sdk.h(711,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\sdk.h(711,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\sdk.h(734,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\sdk.h(767,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(20,31): warning C4244: '=': conversion from 'Ret' to 'float', possible loss of data
+          with
+          [
+              Ret=int
+          ]
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(21,31): warning C4244: '=': conversion from 'Ret' to 'float', possible loss of data
+          with
+          [
+              Ret=int
+          ]
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(93,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(100,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(165,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(165,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,46): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,55): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,71): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,88): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,88): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,101): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,101): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,115): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,115): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,127): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,127): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,140): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,140): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,151): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,151): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,163): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,163): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,176): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,176): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,190): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,190): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,202): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,202): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,215): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,215): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,227): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,227): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,240): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,240): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,258): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,258): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,277): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(208,277): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(226,112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(226,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(226,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(228,142): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(228,119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(228,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(228,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(230,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(230,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(232,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(232,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(234,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(234,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(236,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(236,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(236,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(236,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(236,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(237,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(237,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(237,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(237,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(237,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(238,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(238,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(238,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(238,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(238,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(298,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(298,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(298,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(298,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(299,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(299,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(299,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(299,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(300,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(300,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(300,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(300,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(301,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(301,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(301,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(301,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(302,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(302,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(302,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(302,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(303,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(303,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(303,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(303,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(304,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(304,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(304,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(304,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(305,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(305,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(305,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(305,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(306,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(306,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(306,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(306,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(307,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(307,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(307,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(307,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(308,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(308,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(308,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(308,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(309,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(309,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(309,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(309,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(310,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(310,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(310,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(310,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(311,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(311,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(311,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(311,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(312,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(312,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(312,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(312,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(313,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(313,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(313,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(313,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(314,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(314,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(314,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(314,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(315,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(315,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(315,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(315,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(329,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tripl\OneDrive\Desktop\redbou source\menu.h(330,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\tripl\OneDrive\Desktop\redbou source\sdk.h(663): warning C4715: 'SDK::Classes::Utils::CheckInScreen': not all control paths return a value
+  All 1595 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  fortnite.vcxproj -> C:\Users\tripl\OneDrive\Desktop\redbou source\x64\Release\inject.dll
